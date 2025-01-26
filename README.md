@@ -54,3 +54,5 @@ Bioinformatics Tools: Minimap2, Samtools, LoFreq, FASTQC, Trim Galore
 
 Big Data Processing: Apache Spark
 
+![image](https://github.com/user-attachments/assets/b3db8f37-72b9-485f-becc-aa85664e5ab1)
+
